@@ -1,5 +1,6 @@
 Bonjour le monde. 
 Bienvenue à cette introduction sur Git.
 
+Simle git commit command
 Git status
 
