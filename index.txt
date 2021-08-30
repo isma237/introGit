@@ -4,3 +4,6 @@ Bienvenue à cette introduction sur Git.
 Simle git commit command
 Git status
 
+
+Ajout d'un nouveau fichier
+
