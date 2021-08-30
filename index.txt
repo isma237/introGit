@@ -5,5 +5,7 @@ Simle git commit command
 Git status
 
 
+
+Update mafonction
 Ajout d'un nouveau fichier
 
