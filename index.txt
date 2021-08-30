@@ -1,0 +1,5 @@
+Bonjour le monde. 
+Bienvenue à cette introduction sur Git.
+
+Git status
+
